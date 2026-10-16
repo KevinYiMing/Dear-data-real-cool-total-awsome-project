@@ -1,5 +1,5 @@
 OPMC,12
 SOL,85
-Genderbender,100
+Genderbender,10
 Cultivation,67
-SystemSlop,200
+SystemSlop,670
