@@ -1,1 +1,1 @@
-
+String [] genredata = loadtrings()
